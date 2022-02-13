@@ -1,0 +1,6 @@
+name: bbg-drupal
+recipe: pantheon
+config:
+  framework: drupal8
+  site: bbg-drupal
+  id: 1b2f8bdb-d884-4dae-9009-41341aa79158
